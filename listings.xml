@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <name>Luxury Villa</name>
+        <location>Dubai Marina</location>
+        <bedrooms>5</bedrooms>
+        <bathrooms>4</bathrooms>
+        <price>5000000</price>
+        <description>Spacious luxury villa with a private pool and beachfront view.</description>
+    </property>
+    <property>
+        <name>Cozy Apartment</name>
+        <location>Downtown Dubai</location>
+        <bedrooms>2</bedrooms>
+        <bathrooms>2</bathrooms>
+        <price>1200000</price>
+        <description>Modern apartment in the heart of downtown, close to the Burj Khalifa.</description>
+    </property>
+    <property>
+        <name>Family Home</name>
+        <location>Jumeirah Village Circle</location>
+        <bedrooms>4</bedrooms>
+        <bathrooms>3</bathrooms>
+        <price>2000000</price>
+        <description>Perfect family home with a large garden and nearby schools.</description>
+    </property>
+    <property>
+        <name>Studio Apartment</name>
+        <location>Business Bay</location>
+        <bedrooms>1</bedrooms>
+        <bathrooms>1</bathrooms>
+        <price>800000</price>
+        <description>Compact studio apartment ideal for singles or young professionals.</description>
+    </property>
+    <property>
+        <name>Penthouse Suite</name>
+        <location>Palm Jumeirah</location>
+        <bedrooms>3</bedrooms>
+        <bathrooms>3</bathrooms>
+        <price>10000000</price>
+        <description>Luxurious penthouse with panoramic views and high-end amenities.</description>
+    </property>
+</properties>
